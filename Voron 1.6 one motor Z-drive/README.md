@@ -3,6 +3,8 @@
 ### Overview
 This enables to use one Nema 17 motor to drive Voron 1.6 Z-axis. It is similar to belted-Z for Voron 1.0 and Voron 1.5x.
 
+Belt and leadscrew lenght is given for standard size Voron 1.6.
+
 ### BOM
 
 Print out parts for:
