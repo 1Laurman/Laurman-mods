@@ -1,11 +1,11 @@
-#Voron 1.6 one motor Z-drive
+# Voron 1.6 one motor Z-drive
 
-###Overview
+### Overview
 This enables to use one Nema 17 motor to drive Voron 1.6 Z-axis. It is similar to belted-Z for Voron 1.0 and Voron 1.5x.
 
-###BOM
+### BOM
 
-Print out:
+Print out parts for:
 2x Leadscrew block
 1x Motor mount
 
