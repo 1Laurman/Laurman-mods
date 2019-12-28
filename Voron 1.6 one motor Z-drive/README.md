@@ -6,8 +6,8 @@ This enables to use one Nema 17 motor to drive Voron 1.6 Z-axis. It is similar t
 ### BOM
 
 Print out parts for:
-2x Leadscrew block
-1x Motor mount
+* 2x Leadscrew block
+* 1x Motor mount
 
 * 6x M5x8 BHCS
 * 7x M5x10 BHCS
