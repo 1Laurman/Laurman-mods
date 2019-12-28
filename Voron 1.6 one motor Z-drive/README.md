@@ -26,3 +26,4 @@ Hardware:
 * 2x 20T GT2 5 mm bore pulleys
 * 2x 20T GT2 8 mm bore pulleys
 * 1x 840t GT2 6 mm closed loop belt
+* 2x 350x8 mm leadscrews
