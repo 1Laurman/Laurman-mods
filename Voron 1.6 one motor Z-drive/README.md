@@ -25,7 +25,7 @@ Hardware:
 * 1x 5x50 mm shaft
 * 4x F695 bearings
 * 4x KFL08 bearing blocks
-* 2x 20T GT2 5 mm bore pulleys
+* 3x 20T GT2 5 mm bore pulleys
 * 2x 20T GT2 8 mm bore pulleys
 * 1x 840t GT2 6 mm closed loop belt
 * 2x 350x8 mm leadscrews
